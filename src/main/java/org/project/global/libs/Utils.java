@@ -1,4 +1,4 @@
-package org.koreait.global.libs;
+package org.project.global.libs;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;
@@ -14,7 +14,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.stream.Collectors;
-
 @Lazy
 @Component
 @RequiredArgsConstructor
